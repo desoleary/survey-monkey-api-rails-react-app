@@ -14,8 +14,8 @@ It is an example app and a basic template for devise auth in rails 6 with omni g
 
 ### Clone
 ```bash
-git clone https://github.com/imhta/rails_6_devise_example.git
-cd rails_6_devise_example
+git clone git@github.com:desoleary/survey-monkey-api-rails-react-app.git
+cd survey-monkey-api-rails-react-app
 ```
 ### Install and migrate db
 
