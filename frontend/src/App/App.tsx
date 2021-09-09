@@ -9,7 +9,7 @@ function App() {
   return (
     <Provider store={store}>
       <ErrorBoundary>
-        <GooglePreview title="Learn some react with Wix components" />
+        <GooglePreview title="Learn some react with Wix components 122" />
       </ErrorBoundary>
     </Provider>
   );
